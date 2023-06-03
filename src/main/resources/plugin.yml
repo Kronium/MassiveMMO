@@ -1,0 +1,16 @@
+name: MassiveMMO
+version: '${project.version}'
+main: com.hadesdc.massivemmo.MassiveMMO
+api-version: 1.19
+
+commands:
+  BogIronOre:
+    description: Gives Bog Iron Ore
+  BogIron:
+    description: Give you BogIron
+  Uru:
+    description: Gives you some URU (MYTHIC METAL)
+  Close:
+    description: Gives close item
+  ProfileManager:
+    description: Gives PM item
